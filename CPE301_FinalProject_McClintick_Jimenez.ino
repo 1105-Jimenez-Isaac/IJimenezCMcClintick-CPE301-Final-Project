@@ -1,6 +1,6 @@
 //CPE 301 Final Project
 //Team CarSac
-//Names: Carson McClintick & Issac Jimenez
+//Names: Carson McClintick & Isaac Jimenez
 //May 12, 2024
 
 #define RDA 0x80
